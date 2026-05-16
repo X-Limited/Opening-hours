@@ -1,5 +1,10 @@
 # Google Places Opening Hours Automation
 
+[![CI](https://github.com/X-Limited/Opening-hours/actions/workflows/ci.yml/badge.svg)](https://github.com/X-Limited/Opening-hours/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
+
 Projekt pro automatizované dohledávání otevíracích dob firem pomocí Google Places API.
 
 ## Funkce
@@ -41,3 +46,7 @@ Používej:
 ```python
 API_KEY = "SEM_VLOZ_GOOGLE_API_KEY"
 ```
+
+## License
+
+[MIT](LICENSE) © 2026 X-Limited
