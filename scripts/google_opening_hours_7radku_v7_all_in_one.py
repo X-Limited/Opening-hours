@@ -12,8 +12,5 @@ API_KEY = "SEM_VLOZ_GOOGLE_API_KEY"
 # - 7 řádků = 1 zákazník
 # - dvojité intervaly
 
-import requests
-import openpyxl
-from openpyxl.styles import PatternFill
 
 print("Opening-hours final archive version")
