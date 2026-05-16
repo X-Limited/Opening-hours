@@ -4,4 +4,4 @@
 
 API_KEY = "SEM_VLOZ_GOOGLE_API_KEY"
 
-print('Opening-hours geolocation archive version')
+print("Opening-hours geolocation archive version")

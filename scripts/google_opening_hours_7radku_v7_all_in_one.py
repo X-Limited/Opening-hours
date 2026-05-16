@@ -16,4 +16,4 @@ import requests
 import openpyxl
 from openpyxl.styles import PatternFill
 
-print('Opening-hours final archive version')
+print("Opening-hours final archive version")
